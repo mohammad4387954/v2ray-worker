@@ -2,7 +2,7 @@
 ## V2Ray Worker
  راهکار جامع کانفیگ‌های v2ray روی ورکر
 
-[English version](https://github.com/vfarid/v2ray-worker/blob/main/README.md)
+[English version](https://github.com/mohammad4387954/v2ray-worker/blob/main/README.md)
 
 ### کانال یوتیوب
 [ویدیوی آموزشی - اندروید](https://youtu.be/Jb_6jmrKKyo)
